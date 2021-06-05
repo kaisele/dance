@@ -1,0 +1,16 @@
+@media(min-width:1200px){
+
+  .dancebox h1 {
+    margin-left:10vw;
+  }
+  .dancebox p {
+    margin-left:10vw;
+  }
+  
+  
+  .dancebox iframe{
+    width:80vw;
+    height:45vw;
+    margin:0 10vw;
+  }
+}
